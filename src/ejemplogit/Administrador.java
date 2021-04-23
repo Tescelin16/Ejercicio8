@@ -9,6 +9,21 @@ package ejemplogit;
  *
  * @author juanj
  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 public class Administrador {
-    
+    private int numero;
 }
