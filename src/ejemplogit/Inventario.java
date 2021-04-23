@@ -9,6 +9,6 @@ package ejemplogit;
  *
  * @author danic
  */
-public class Cliente {
+public class Inventario {
     
 }
