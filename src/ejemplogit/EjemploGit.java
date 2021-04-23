@@ -5,17 +5,25 @@
  */
 package ejemplogit;
 
+import java.util.ArrayList;
+
 /**
  *
  * @author danic
  */
 public class EjemploGit {
 
-    /**
-     * @param args the command line arguments
-     */
+    
     public static void main(String[] args) {
-       int  num ;
+     int num;
+     
+     ArrayList<Productos> producto = new ArrayList<>();
+     
+    
     }
+
+    
+ 
+    
     
 }
